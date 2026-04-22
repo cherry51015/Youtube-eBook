@@ -161,12 +161,11 @@ pip install -r requirements.txt
 ollama gemma3:1b
 ```
 
-### Run
+### Run the full pipeline
 
 ```bash
 
-Run the full pipeline
-bash# Linux/Mac
+# Linux/Mac
 make all
 
 # Windows (PowerShell)
