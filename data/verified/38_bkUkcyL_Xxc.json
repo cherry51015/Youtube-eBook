@@ -1,0 +1,61 @@
+{
+  "chapter_file": "38_bkUkcyL_Xxc.md",
+  "video_id": "bkUkcyL_Xxc",
+  "paragraphs": [
+    {
+      "text": "This chapter delves into the intricacies of data structures and algorithms, building upon the foundational concepts intr\u2026",
+      "score": 0.1698,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Dynamic programming, a powerful algorithmic technique, systematically breaks down a problem into smaller, overlapping su\u2026",
+      "score": 0.2257,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Greedy algorithms operate on the principle of selecting the \u201cbest\u201d option at each step, without considering the long-ter\u2026",
+      "score": 0.1608,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Tree data structures provide a hierarchical organization of data, enabling efficient retrieval and manipulation of compl\u2026",
+      "score": 0.1312,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Linked lists are a fundamental data structure that consists of nodes connected by pointers. Unlike arrays, linked lists \u2026",
+      "score": 0.1526,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Understanding time complexity is paramount when evaluating the efficiency of algorithms.  Time complexity refers to the \u2026",
+      "score": 0.1252,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Space complexity refers to the amount of memory an algorithm requires to execute.  It\u2019s a crucial consideration, especia\u2026",
+      "score": 0.1968,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   Dynamic programming offers a powerful optimization technique for solving problems with overlapping subproblems.\n*   \u2026",
+      "score": 0.23,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 8,
+    "verified": 0,
+    "flagged": 8,
+    "avg_score": 0.174,
+    "threshold": 0.35
+  }
+}

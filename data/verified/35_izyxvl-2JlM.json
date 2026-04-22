@@ -1,0 +1,25 @@
+{
+  "chapter_file": "35_izyxvl-2JlM.md",
+  "video_id": "izyxvl-2JlM",
+  "paragraphs": [
+    {
+      "text": "The core of this project involves adapting a pre-trained large language model (GPT) for a binary classification task \u2013 d\u2026",
+      "score": 0.6547,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The implementation of the classification head necessitates a strategic approach to parameter management. The model\u2019s arc\u2026",
+      "score": 0.5727,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 2,
+    "verified": 2,
+    "flagged": 0,
+    "avg_score": 0.6137,
+    "threshold": 0.35
+  }
+}

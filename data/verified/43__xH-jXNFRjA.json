@@ -1,0 +1,37 @@
+{
+  "chapter_file": "43__xH-jXNFRjA.md",
+  "video_id": "_xH-jXNFRjA",
+  "paragraphs": [
+    {
+      "text": "\u201cBuilding LLMs from Scratch: A Complete Technical Guide\u201d begins with a foundational understanding of the series\u2019 scope, \u2026",
+      "score": 0.669,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The core of the model\u2019s architecture is the Transformer block, which is comprised of multiple attention modules. Each Tr\u2026",
+      "score": 0.31,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The subsequent stages involve fine-tuning the model, which is the process of adapting the pre-trained model to a specifi\u2026",
+      "score": 0.3383,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The entire process of constructing a large language model from scratch is a computationally intensive undertaking, requi\u2026",
+      "score": 0.6188,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 2,
+    "flagged": 2,
+    "avg_score": 0.484,
+    "threshold": 0.35
+  }
+}

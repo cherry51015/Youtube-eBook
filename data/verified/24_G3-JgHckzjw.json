@@ -1,0 +1,37 @@
+{
+  "chapter_file": "24_G3-JgHckzjw.md",
+  "video_id": "G3-JgHckzjw",
+  "paragraphs": [
+    {
+      "text": "The GPT model, a foundational architecture for large language models, is built upon a sequence of layers that progressiv\u2026",
+      "score": 0.6087,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The model\u2019s architecture is fundamentally structured around a series of stacked Transformer blocks. Each block consists \u2026",
+      "score": 0.3741,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The model\u2019s parameter count, which is a critical factor in its performance, is substantial, reaching approximately 163 m\u2026",
+      "score": 0.2687,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   GPT models utilize a sequence of Transformer blocks.\n*   Each Transformer block includes self-attention mechanisms.\n\u2026",
+      "score": 0.5694,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 3,
+    "flagged": 1,
+    "avg_score": 0.4552,
+    "threshold": 0.35
+  }
+}

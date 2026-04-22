@@ -1,0 +1,31 @@
+{
+  "chapter_file": "42_7m2jV7BOFkA.md",
+  "video_id": "7m2jV7BOFkA",
+  "paragraphs": [
+    {
+      "text": "The initial stage of LLM development necessitates a meticulous configuration of the model\u2019s parameters. Specifically, th\u2026",
+      "score": 0.638,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The file \u201cgpt2 medium 355 million sf\u201d is designed to hold the model\u2019s parameters, which are the numerical values that de\u2026",
+      "score": 0.4974,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "*   The \u201cgpt2 medium 355 million sf\u201d file stores the model's parameters, which are the numerical values that define the \u2026",
+      "score": 0.6695,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "verified": 3,
+    "flagged": 0,
+    "avg_score": 0.6016,
+    "threshold": 0.35
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "chapter_file": "14_eSRhpYLerw4.md",
+  "video_id": "eSRhpYLerw4",
+  "paragraphs": [
+    {
+      "text": "The core of this explanation revolves around the concept of self-attention, a mechanism that allows models to weigh the \u2026",
+      "score": 0.5586,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The explanation highlights the crucial role of the key, value, and query components in self-attention. The query represe\u2026",
+      "score": 0.5341,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The context vector is computed by taking the dot product between the query and each value, and then scaling the result b\u2026",
+      "score": 0.4458,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The explanation emphasizes that the self-attention mechanism is not a simple dot product; it's a learned process that al\u2026",
+      "score": 0.4907,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 4,
+    "flagged": 0,
+    "avg_score": 0.5073,
+    "threshold": 0.35
+  }
+}

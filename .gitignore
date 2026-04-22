@@ -1,0 +1,7 @@
+data/transcripts/
+data/chunks/
+data/structured/
+__pycache__/
+*.pyc
+.env
+*.egg-info/

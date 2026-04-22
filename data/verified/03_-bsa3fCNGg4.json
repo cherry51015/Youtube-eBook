@@ -1,0 +1,43 @@
+{
+  "chapter_file": "03_-bsa3fCNGg4.md",
+  "video_id": "-bsa3fCNGg4",
+  "paragraphs": [
+    {
+      "text": "The process of developing a large language model (LLM) begins with data collection and preparation. A substantial corpus\u2026",
+      "score": 0.6587,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Fine-tuning is a critical step in optimizing an LLM for particular applications. It involves training the pre-trained mo\u2026",
+      "score": 0.448,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The initial stages of LLM development include data collection and preparation, which is a complex process. The raw data \u2026",
+      "score": 0.6199,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The computational cost of training an LLM is a substantial challenge, demanding significant resources and energy. The in\u2026",
+      "score": 0.5523,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   LLM development involves a significant investment in data collection and preparation.\n*   Pre-training allows the mo\u2026",
+      "score": 0.6442,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 5,
+    "flagged": 0,
+    "avg_score": 0.5846,
+    "threshold": 0.35
+  }
+}

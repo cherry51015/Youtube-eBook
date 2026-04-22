@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  /* ── Page layout ─────────────────────────────────────────── */
+  @page {
+    size: 6.69in 9.61in;  /* standard trade paperback */
+    margin: 1in 0.85in 1in 0.85in;
+    @top-center {
+      content: string(chapter-title);
+      font-family: 'Georgia', serif;
+      font-size: 8pt;
+      color: #666;
+    }
+    @bottom-center {
+      content: counter(page);
+      font-family: 'Georgia', serif;
+      font-size: 9pt;
+      color: #444;
+    }
+  }
+
+  @page cover { margin: 0; }
+  @page toc   { @top-center { content: "Contents"; } }
+  @page blank { @top-center { content: ""; } @bottom-center { content: ""; } }
+
+  /* ── Base typography ─────────────────────────────────────── */
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 11pt;
+    line-height: 1.65;
+    color: #1a1a1a;
+  }
+
+  /* ── Cover page ──────────────────────────────────────────── */
+  .cover {
+    page: cover;
+    width: 6.69in;
+    height: 9.61in;
+    background: #0f2744;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    page-break-after: always;
+    text-align: center;
+    padding: 1in;
+    box-sizing: border-box;
+  }
+  .cover-title {
+    color: #ffffff;
+    font-size: 28pt;
+    font-weight: bold;
+    margin-bottom: 0.2in;
+    line-height: 1.2;
+  }
+  .cover-subtitle {
+    color: #8ab4d4;
+    font-size: 13pt;
+    margin-bottom: 0.5in;
+    font-style: italic;
+  }
+  .cover-rule {
+    width: 2in;
+    border: none;
+    border-top: 2px solid #4a90c4;
+    margin: 0.3in auto;
+  }
+  .cover-author {
+    color: #c0d8ee;
+    font-size: 11pt;
+  }
+  .cover-version {
+    color: #6a9bbf;
+    font-size: 9pt;
+    margin-top: 0.4in;
+  }
+
+  /* ── Table of Contents ───────────────────────────────────── */
+  .toc-page {
+    page: toc;
+    page-break-after: always;
+  }
+  .toc-title {
+    font-size: 18pt;
+    font-weight: bold;
+    margin-bottom: 0.3in;
+    color: #0f2744;
+    border-bottom: 1px solid #0f2744;
+    padding-bottom: 6pt;
+  }
+  .toc-entry {
+    display: flex;
+    justify-content: space-between;
+    padding: 3pt 0;
+    font-size: 10.5pt;
+    border-bottom: 1px dotted #ccc;
+  }
+  .toc-chapter { color: #0f2744; font-weight: bold; }
+  .toc-page-num { color: #555; }
+
+  /* ── Chapter pages ───────────────────────────────────────── */
+  .chapter {
+    page-break-before: always;
+    padding-top: 0.3in;
+    string-set: chapter-title content();
+  }
+
+  h1 {
+    font-size: 20pt;
+    font-weight: bold;
+    color: #0f2744;
+    border-bottom: 2px solid #4a90c4;
+    padding-bottom: 8pt;
+    margin-bottom: 16pt;
+    line-height: 1.2;
+    page-break-after: avoid;
+  }
+  h1 .chapter-num {
+    display: block;
+    font-size: 10pt;
+    font-weight: normal;
+    color: #4a90c4;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    font-weight: bold;
+    color: #0f2744;
+    margin-top: 20pt;
+    margin-bottom: 8pt;
+    page-break-after: avoid;
+  }
+
+  h3 {
+    font-size: 11.5pt;
+    font-weight: bold;
+    color: #2a4a6e;
+    margin-top: 14pt;
+    margin-bottom: 6pt;
+    page-break-after: avoid;
+  }
+
+  p { margin: 0 0 10pt 0; text-align: justify; }
+
+  /* ── Code ────────────────────────────────────────────────── */
+  pre {
+    background: #f5f7fa;
+    border-left: 3px solid #4a90c4;
+    padding: 10pt 14pt;
+    font-family: 'Courier New', 'Courier', monospace;
+    font-size: 8.5pt;
+    line-height: 1.4;
+    overflow-x: auto;
+    page-break-inside: avoid;
+    margin: 12pt 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  code {
+    font-family: 'Courier New', monospace;
+    font-size: 9pt;
+    background: #f0f3f7;
+    padding: 1pt 3pt;
+    border-radius: 2pt;
+  }
+  pre code { background: none; padding: 0; font-size: 8.5pt; }
+
+  /* ── Lists ───────────────────────────────────────────────── */
+  ul, ol {
+    margin: 8pt 0 10pt 18pt;
+    padding: 0;
+  }
+  li { margin-bottom: 4pt; }
+
+  /* ── Key Takeaways box ───────────────────────────────────── */
+  .takeaways {
+    background: #eef4fb;
+    border: 1px solid #c0d8ee;
+    border-radius: 4pt;
+    padding: 10pt 14pt;
+    margin: 16pt 0;
+    page-break-inside: avoid;
+  }
+  .takeaways-title {
+    font-weight: bold;
+    color: #0f2744;
+    font-size: 10.5pt;
+    margin-bottom: 6pt;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  /* ── Verify annotation ───────────────────────────────────── */
+  .verify-flag {
+    border-left: 3px solid #e8a020;
+    padding-left: 8pt;
+    color: #6a5020;
+    font-style: italic;
+  }
+
+  /* Source citations ──── */
+  .citation { font-size: 8.5pt; color: #888; font-style: italic; }
+
+  /* ── Glossary ────────────────────────────────────────────── */
+  .glossary-page { page-break-before: always; }
+  .glossary-entry { margin-bottom: 10pt; }
+  .glossary-term { font-weight: bold; color: #0f2744; }
+  .glossary-def  { color: #333; margin-left: 12pt; }
+
+  /* ── Concept Index ───────────────────────────────────────── */
+  .index-page { page-break-before: always; }
+  .index-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20pt;
+  }
+  .index-entry { margin-bottom: 5pt; font-size: 9.5pt; }
+  .index-term { color: #0f2744; }
+  .index-chapters { color: #666; font-size: 8.5pt; }
+
+  /* ── Blank page ──────────────────────────────────────────── */
+  .blank-page { page: blank; page-break-after: always; height: 1px; }
+</style>
+</head>
+<body>
+
+<!-- ══ COVER ══════════════════════════════════════════════════════════════ -->
+<div class="cover">
+  <div class="cover-title">{{ book.title }}</div>
+  <div class="cover-subtitle">{{ book.subtitle }}</div>
+  <hr class="cover-rule">
+  <div class="cover-author">{{ book.author }}</div>
+  <div class="cover-version">Version {{ book.version }} &nbsp;·&nbsp; {{ build_date }}</div>
+</div>
+
+<!-- ══ BLANK ══════════════════════════════════════════════════════════════ -->
+<div class="blank-page"></div>
+
+<!-- ══ TABLE OF CONTENTS ══════════════════════════════════════════════════ -->
+<div class="toc-page">
+  <div class="toc-title">Contents</div>
+  {% for chap in chapters %}
+  <div class="toc-entry">
+    <span class="toc-chapter">Chapter {{ chap.num }}: {{ chap.title }}</span>
+    <span class="toc-page-num">{{ chap.num + 2 }}</span>
+  </div>
+  {% endfor %}
+  <div class="toc-entry" style="margin-top:12pt;">
+    <span class="toc-chapter">Glossary</span>
+    <span class="toc-page-num">{{ chapters|length + 3 }}</span>
+  </div>
+  <div class="toc-entry">
+    <span class="toc-chapter">Concept Index</span>
+    <span class="toc-page-num">{{ chapters|length + 4 }}</span>
+  </div>
+</div>
+
+<!-- ══ CHAPTERS ═══════════════════════════════════════════════════════════ -->
+{% for chap in chapters %}
+<div class="chapter">
+  {{ chap.html | safe }}
+</div>
+{% endfor %}
+
+<!-- ══ GLOSSARY ═══════════════════════════════════════════════════════════ -->
+<div class="glossary-page">
+  <h1><span class="chapter-num">Appendix A</span>Glossary</h1>
+  {% for term, defn in glossary.items() %}
+  <div class="glossary-entry">
+    <div class="glossary-term">{{ term }}</div>
+    <div class="glossary-def">{{ defn }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- ══ CONCEPT INDEX ══════════════════════════════════════════════════════ -->
+<div class="index-page">
+  <h1><span class="chapter-num">Appendix B</span>Concept Index</h1>
+  <div class="index-grid">
+    {% for term, chap_nums in concept_index.items() %}
+    <div class="index-entry">
+      <span class="index-term">{{ term }}</span>
+      <span class="index-chapters"> — Ch. {{ chap_nums | join(', ') }}</span>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+</body>
+</html>

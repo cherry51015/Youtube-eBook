@@ -1,0 +1,272 @@
+{
+  "chapters": [
+    {
+      "chapter": "01_Xpr8D6LeAtw",
+      "compression_ratio": 0.248,
+      "semantic_coverage": 0.845,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "02_3dWzNZXA8DY",
+      "compression_ratio": 0.0,
+      "semantic_coverage": 0.0,
+      "grounding_score": 0.0
+    },
+    {
+      "chapter": "03_-bsa3fCNGg4",
+      "compression_ratio": 0.115,
+      "semantic_coverage": 0.663,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "04_NLn4eetGmf8",
+      "compression_ratio": 0.151,
+      "semantic_coverage": 0.419,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "05_xbaYCf2FHSY",
+      "compression_ratio": 0.104,
+      "semantic_coverage": 0.706,
+      "grounding_score": 0.8
+    },
+    {
+      "chapter": "06_z9fgKz1Drlc",
+      "compression_ratio": 0.18,
+      "semantic_coverage": 0.599,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "07_rsy5Ragmso8",
+      "compression_ratio": 0.046,
+      "semantic_coverage": 0.583,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "08_fKd8s29e-l4",
+      "compression_ratio": 0.063,
+      "semantic_coverage": 0.654,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "09_iQZFH8dr2yI",
+      "compression_ratio": 0.07,
+      "semantic_coverage": 0.558,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "10_ghCSGRgVB_o",
+      "compression_ratio": 0.072,
+      "semantic_coverage": 0.525,
+      "grounding_score": 0.857
+    },
+    {
+      "chapter": "11_ufrPLpKnapU",
+      "compression_ratio": 0.095,
+      "semantic_coverage": 0.677,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "12_mk-6cFebjis",
+      "compression_ratio": 0.322,
+      "semantic_coverage": 0.401,
+      "grounding_score": 0.75
+    },
+    {
+      "chapter": "13_XN7sevVxyUM",
+      "compression_ratio": 0.046,
+      "semantic_coverage": 0.542,
+      "grounding_score": 0.8
+    },
+    {
+      "chapter": "14_eSRhpYLerw4",
+      "compression_ratio": 0.044,
+      "semantic_coverage": 0.64,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "15_UjdRN80c6p8",
+      "compression_ratio": 0.048,
+      "semantic_coverage": 0.419,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "16_h94TQOK7NRA",
+      "compression_ratio": 0.064,
+      "semantic_coverage": 0.344,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "17_cPaBCoNdCtE",
+      "compression_ratio": 0.154,
+      "semantic_coverage": 0.614,
+      "grounding_score": 0.917
+    },
+    {
+      "chapter": "18_K5u9eEaoxFg",
+      "compression_ratio": 0.12,
+      "semantic_coverage": 0.538,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "19_4i23dYoXp-A",
+      "compression_ratio": 0.054,
+      "semantic_coverage": 0.391,
+      "grounding_score": 0.8
+    },
+    {
+      "chapter": "20_G3W-LT79LSI",
+      "compression_ratio": 0.064,
+      "semantic_coverage": 0.479,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "21_d_PiwZe8UF4",
+      "compression_ratio": 0.19,
+      "semantic_coverage": 0.489,
+      "grounding_score": 0.455
+    },
+    {
+      "chapter": "22_2r0QahNdwMw",
+      "compression_ratio": 0.111,
+      "semantic_coverage": 0.507,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "23_dvH6lFGhFrs",
+      "compression_ratio": 0.128,
+      "semantic_coverage": 0.601,
+      "grounding_score": 0.917
+    },
+    {
+      "chapter": "24_G3-JgHckzjw",
+      "compression_ratio": 0.063,
+      "semantic_coverage": 0.617,
+      "grounding_score": 0.75
+    },
+    {
+      "chapter": "25_F1Sm7z2R96w",
+      "compression_ratio": 0.066,
+      "semantic_coverage": 0.555,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "26_7TKCrt--bWI",
+      "compression_ratio": 0.084,
+      "semantic_coverage": 0.612,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "27_zuj_NJNouAA",
+      "compression_ratio": 0.051,
+      "semantic_coverage": 0.541,
+      "grounding_score": 0.75
+    },
+    {
+      "chapter": "28_Zxf-34voZss",
+      "compression_ratio": 0.127,
+      "semantic_coverage": 0.471,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "29_oG1FPVnY0pI",
+      "compression_ratio": 0.103,
+      "semantic_coverage": 0.635,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "30_EhU32O7DkA4",
+      "compression_ratio": 0.166,
+      "semantic_coverage": 0.678,
+      "grounding_score": 0.8
+    },
+    {
+      "chapter": "31_Bc-9sf0VihQ",
+      "compression_ratio": 0.289,
+      "semantic_coverage": 0.579,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "32_yXrGeDNuymY",
+      "compression_ratio": 0.076,
+      "semantic_coverage": 0.402,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "33_yZpy_hsC1bE",
+      "compression_ratio": 0.195,
+      "semantic_coverage": 0.427,
+      "grounding_score": 0.5
+    },
+    {
+      "chapter": "34_f6zqClXOh7Y",
+      "compression_ratio": 0.097,
+      "semantic_coverage": 0.472,
+      "grounding_score": 0.833
+    },
+    {
+      "chapter": "35_izyxvl-2JlM",
+      "compression_ratio": 0.168,
+      "semantic_coverage": 0.524,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "36_0PpxZ3kNPWo",
+      "compression_ratio": 0.112,
+      "semantic_coverage": 0.454,
+      "grounding_score": 0.778
+    },
+    {
+      "chapter": "37_1bLhvqZzdaQ",
+      "compression_ratio": 0.19,
+      "semantic_coverage": 0.455,
+      "grounding_score": 0.667
+    },
+    {
+      "chapter": "38_bkUkcyL_Xxc",
+      "compression_ratio": 0.125,
+      "semantic_coverage": 0.277,
+      "grounding_score": 0.0
+    },
+    {
+      "chapter": "39_egFqsJQ9kuY",
+      "compression_ratio": 0.247,
+      "semantic_coverage": 0.401,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "40___OiQznq4ao",
+      "compression_ratio": 0.265,
+      "semantic_coverage": 0.754,
+      "grounding_score": 0.786
+    },
+    {
+      "chapter": "41_r7unILsP0Es",
+      "compression_ratio": 0.22,
+      "semantic_coverage": 0.666,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "42_7m2jV7BOFkA",
+      "compression_ratio": 0.046,
+      "semantic_coverage": 0.449,
+      "grounding_score": 1.0
+    },
+    {
+      "chapter": "43__xH-jXNFRjA",
+      "compression_ratio": 0.145,
+      "semantic_coverage": 0.685,
+      "grounding_score": 0.5
+    }
+  ],
+  "aggregate": {
+    "avg_compression_ratio": 0.124,
+    "avg_semantic_coverage": 0.531,
+    "avg_grounding_score": 0.853
+  },
+  "interpretation": {
+    "compression_ratio": "0.5\u20131.5 = healthy; <0.5 = too compressed; >2.0 = padded",
+    "semantic_coverage": "0.0\u20131.0 cosine sim; >0.4 = good coverage of transcript",
+    "grounding_score": "fraction of paragraphs above stability threshold; >0.8 = reliable"
+  }
+}

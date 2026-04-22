@@ -1,0 +1,85 @@
+{
+  "chapter_file": "23_dvH6lFGhFrs.md",
+  "video_id": "dvH6lFGhFrs",
+  "paragraphs": [
+    {
+      "text": "The Transformer architecture has revolutionized natural language processing and computer vision, achieving state-of-the-\u2026",
+      "score": 0.6153,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The fundamental innovation within the Transformer is the self-attention mechanism. Unlike recurrent models that process \u2026",
+      "score": 0.5437,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The Transformer architecture typically consists of an encoder and a decoder. The encoder processes the input sequence an\u2026",
+      "score": 0.5433,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**3. The Transformer Block \u2013 A Detailed Breakdown**",
+      "score": 0.4341,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "A Transformer block comprises several key components:",
+      "score": 0.4989,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   **Input Embedding:** The input sequence is first embedded into a vector space, representing each element as a numeri\u2026",
+      "score": 0.6622,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "These components are arranged in a stack, with each layer transforming the input sequence. The output of one layer becom\u2026",
+      "score": 0.4552,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**4.  The Decoder Block \u2013 Generating the Output**",
+      "score": 0.3157,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The decoder block is similar to the encoder block, but it has a few key differences. It also uses self-attention, but it\u2026",
+      "score": 0.3962,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The Transformer architecture is implemented using PyTorch.  The self-attention mechanism is implemented using a scaled d\u2026",
+      "score": 0.5292,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   The Transformer leverages the self-attention mechanism to model relationships between elements in a sequence.\n*   Th\u2026",
+      "score": 0.6173,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   The Transformer's self-attention mechanism is the core innovation, enabling context-aware modeling.\n*   The encoder-\u2026",
+      "score": 0.582,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 12,
+    "verified": 11,
+    "flagged": 1,
+    "avg_score": 0.5161,
+    "threshold": 0.35
+  }
+}

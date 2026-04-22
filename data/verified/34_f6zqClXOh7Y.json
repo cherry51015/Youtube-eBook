@@ -1,0 +1,49 @@
+{
+  "chapter_file": "34_f6zqClXOh7Y.md",
+  "video_id": "f6zqClXOh7Y",
+  "paragraphs": [
+    {
+      "text": "Data preparation is a foundational step in any machine learning project, and it\u2019s arguably the most critical stage. This\u2026",
+      "score": 0.3987,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The data loaders are the core component of this workflow. They are responsible for feeding data to the model during both\u2026",
+      "score": 0.3576,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The core of the workflow involves initializing the model, loading pre-trained weights, and modifying the model for fine-\u2026",
+      "score": 0.5153,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The next lecture will focus on model initialization, training, and evaluation. The model is initialized with pre-trained\u2026",
+      "score": 0.4553,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   Data preparation is a critical initial step.\n*   Data loaders handle batch processing for efficient training.\n*   Mo\u2026",
+      "score": 0.4176,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "[Source:  [Example Data Loader Code - Placeholder for demonstration purposes, would be included here in a real implement\u2026",
+      "score": 0.1863,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "verified": 5,
+    "flagged": 1,
+    "avg_score": 0.3885,
+    "threshold": 0.35
+  }
+}

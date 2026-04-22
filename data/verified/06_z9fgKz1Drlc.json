@@ -1,0 +1,43 @@
+{
+  "chapter_file": "06_z9fgKz1Drlc.md",
+  "video_id": "z9fgKz1Drlc",
+  "paragraphs": [
+    {
+      "text": "The foundation of modern Large Language Models (LLMs) rests upon the principles of pre-training and fine-tuning, a two-s\u2026",
+      "score": 0.5331,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The transition from pre-training to fine-tuning represents a significant paradigm shift. Rather than training a model fr\u2026",
+      "score": 0.4337,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The Transformer architecture\u2019s key innovation is the attention mechanism, which allows the model to weigh the importance\u2026",
+      "score": 0.4859,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "In the context of this lecture, we will focus on the data pre",
+      "score": 0.4329,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   Pre-training and fine-tuning are a two-stage process for LLMs.\n*   Pre-training leverages massive unlabeled text dat\u2026",
+      "score": 0.5696,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 5,
+    "flagged": 0,
+    "avg_score": 0.491,
+    "threshold": 0.35
+  }
+}

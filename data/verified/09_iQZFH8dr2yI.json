@@ -1,0 +1,43 @@
+{
+  "chapter_file": "09_iQZFH8dr2yI.md",
+  "video_id": "iQZFH8dr2yI",
+  "paragraphs": [
+    {
+      "text": "The task is to create a data loader for the LLM training process. The data loader will be designed to efficiently proces\u2026",
+      "score": 0.5846,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The data loader will first tokenize the input text, converting it into a sequence of tokens. This process involves break\u2026",
+      "score": 0.5854,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The data loader will be implemented using a PyTorch data loader class, which provides a convenient interface for loading\u2026",
+      "score": 0.5217,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The data loader will consist of several stages: tokenizing the input text, creating sliding windows, and generating outp\u2026",
+      "score": 0.5281,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "*   A robust data loader is essential for efficient LLM training.\n*   Sliding window techniques are a standard approach \u2026",
+      "score": 0.459,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 5,
+    "flagged": 0,
+    "avg_score": 0.5358,
+    "threshold": 0.35
+  }
+}

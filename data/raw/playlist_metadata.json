@@ -1,0 +1,265 @@
+{
+  "playlist_id": "PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu",
+  "playlist_url": "https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu",
+  "title": "Building LLMs from scratch",
+  "videos": [
+    {
+      "id": "Xpr8D6LeAtw",
+      "index": 1,
+      "title": "Lecture 1: Building LLMs from scratch: Series introduction",
+      "url": "https://www.youtube.com/watch?v=Xpr8D6LeAtw"
+    },
+    {
+      "id": "3dWzNZXA8DY",
+      "index": 2,
+      "title": "Lecture 2: Large Language Models (LLM) Basics",
+      "url": "https://www.youtube.com/watch?v=3dWzNZXA8DY"
+    },
+    {
+      "id": "-bsa3fCNGg4",
+      "index": 3,
+      "title": "Lecture 3: Pretraining LLMs vs Finetuning LLMs",
+      "url": "https://www.youtube.com/watch?v=-bsa3fCNGg4"
+    },
+    {
+      "id": "NLn4eetGmf8",
+      "index": 4,
+      "title": "Lecture 4: What are transformers?",
+      "url": "https://www.youtube.com/watch?v=NLn4eetGmf8"
+    },
+    {
+      "id": "xbaYCf2FHSY",
+      "index": 5,
+      "title": "Lecture 5: How does GPT-3 really work?",
+      "url": "https://www.youtube.com/watch?v=xbaYCf2FHSY"
+    },
+    {
+      "id": "z9fgKz1Drlc",
+      "index": 6,
+      "title": "Lecture 6: Stages of building an LLM from Scratch",
+      "url": "https://www.youtube.com/watch?v=z9fgKz1Drlc"
+    },
+    {
+      "id": "rsy5Ragmso8",
+      "index": 7,
+      "title": "Lecture 7: Code an LLM Tokenizer from Scratch in Python",
+      "url": "https://www.youtube.com/watch?v=rsy5Ragmso8"
+    },
+    {
+      "id": "fKd8s29e-l4",
+      "index": 8,
+      "title": "Lecture 8: The GPT Tokenizer: Byte Pair Encoding",
+      "url": "https://www.youtube.com/watch?v=fKd8s29e-l4"
+    },
+    {
+      "id": "iQZFH8dr2yI",
+      "index": 9,
+      "title": "Lecture 9: Creating Input-Target data pairs using Python DataLoader",
+      "url": "https://www.youtube.com/watch?v=iQZFH8dr2yI"
+    },
+    {
+      "id": "ghCSGRgVB_o",
+      "index": 10,
+      "title": "Lecture 10: What are token embeddings?",
+      "url": "https://www.youtube.com/watch?v=ghCSGRgVB_o"
+    },
+    {
+      "id": "ufrPLpKnapU",
+      "index": 11,
+      "title": "Lecture 11: The importance of Positional Embeddings",
+      "url": "https://www.youtube.com/watch?v=ufrPLpKnapU"
+    },
+    {
+      "id": "mk-6cFebjis",
+      "index": 12,
+      "title": "Lecture 12: The entire Data Preprocessing Pipeline of Large Language Models (LLMs)",
+      "url": "https://www.youtube.com/watch?v=mk-6cFebjis"
+    },
+    {
+      "id": "XN7sevVxyUM",
+      "index": 13,
+      "title": "Lecture 13: Introduction to the Attention Mechanism in Large Language Models (LLMs)",
+      "url": "https://www.youtube.com/watch?v=XN7sevVxyUM"
+    },
+    {
+      "id": "eSRhpYLerw4",
+      "index": 14,
+      "title": "Lecture 14: Simplified Attention Mechanism  - Coded from scratch in Python | No trainable weights",
+      "url": "https://www.youtube.com/watch?v=eSRhpYLerw4"
+    },
+    {
+      "id": "UjdRN80c6p8",
+      "index": 15,
+      "title": "Lecture 15: Coding the self attention mechanism with key, query and value matrices",
+      "url": "https://www.youtube.com/watch?v=UjdRN80c6p8"
+    },
+    {
+      "id": "h94TQOK7NRA",
+      "index": 16,
+      "title": "Lecture 16: Causal Self Attention Mechanism  | Coded from scratch in Python",
+      "url": "https://www.youtube.com/watch?v=h94TQOK7NRA"
+    },
+    {
+      "id": "cPaBCoNdCtE",
+      "index": 17,
+      "title": "Lecture 17: Multi Head Attention Part 1 - Basics and Python code",
+      "url": "https://www.youtube.com/watch?v=cPaBCoNdCtE"
+    },
+    {
+      "id": "K5u9eEaoxFg",
+      "index": 18,
+      "title": "Lecture 18: Multi Head Attention Part 2 - Entire mathematics explained",
+      "url": "https://www.youtube.com/watch?v=K5u9eEaoxFg"
+    },
+    {
+      "id": "4i23dYoXp-A",
+      "index": 19,
+      "title": "Lecture 19: Birds Eye View of the LLM Architecture",
+      "url": "https://www.youtube.com/watch?v=4i23dYoXp-A"
+    },
+    {
+      "id": "G3W-LT79LSI",
+      "index": 20,
+      "title": "Lecture 20: Layer Normalization in the LLM Architecture",
+      "url": "https://www.youtube.com/watch?v=G3W-LT79LSI"
+    },
+    {
+      "id": "d_PiwZe8UF4",
+      "index": 21,
+      "title": "GELU Activation Function in the LLM Architecture",
+      "url": "https://www.youtube.com/watch?v=d_PiwZe8UF4"
+    },
+    {
+      "id": "2r0QahNdwMw",
+      "index": 22,
+      "title": "Shortcut connections in the LLM Architecture",
+      "url": "https://www.youtube.com/watch?v=2r0QahNdwMw"
+    },
+    {
+      "id": "dvH6lFGhFrs",
+      "index": 23,
+      "title": "Coding the entire LLM Transformer Block",
+      "url": "https://www.youtube.com/watch?v=dvH6lFGhFrs"
+    },
+    {
+      "id": "G3-JgHckzjw",
+      "index": 24,
+      "title": "Coding the 124 million parameter GPT-2 model",
+      "url": "https://www.youtube.com/watch?v=G3-JgHckzjw"
+    },
+    {
+      "id": "F1Sm7z2R96w",
+      "index": 25,
+      "title": "Coding GPT-2 to predict the next token",
+      "url": "https://www.youtube.com/watch?v=F1Sm7z2R96w"
+    },
+    {
+      "id": "7TKCrt--bWI",
+      "index": 26,
+      "title": "Measuring the LLM loss function",
+      "url": "https://www.youtube.com/watch?v=7TKCrt--bWI"
+    },
+    {
+      "id": "zuj_NJNouAA",
+      "index": 27,
+      "title": "Evaluating LLM performance on real dataset | Hands on project | Book data",
+      "url": "https://www.youtube.com/watch?v=zuj_NJNouAA"
+    },
+    {
+      "id": "Zxf-34voZss",
+      "index": 28,
+      "title": "Coding the entire LLM Pre-training Loop",
+      "url": "https://www.youtube.com/watch?v=Zxf-34voZss"
+    },
+    {
+      "id": "oG1FPVnY0pI",
+      "index": 29,
+      "title": "Temperature Scaling in Large Language Models (LLMs)",
+      "url": "https://www.youtube.com/watch?v=oG1FPVnY0pI"
+    },
+    {
+      "id": "EhU32O7DkA4",
+      "index": 30,
+      "title": "Top-k sampling in Large Language Models",
+      "url": "https://www.youtube.com/watch?v=EhU32O7DkA4"
+    },
+    {
+      "id": "Bc-9sf0VihQ",
+      "index": 31,
+      "title": "Saving and loading LLM model weights using PyTorch",
+      "url": "https://www.youtube.com/watch?v=Bc-9sf0VihQ"
+    },
+    {
+      "id": "yXrGeDNuymY",
+      "index": 32,
+      "title": "Loading pre-trained weights from OpenAI GPT-2",
+      "url": "https://www.youtube.com/watch?v=yXrGeDNuymY"
+    },
+    {
+      "id": "yZpy_hsC1bE",
+      "index": 33,
+      "title": "Introduction to LLM Finetuning | Python Coding with hands-on-example",
+      "url": "https://www.youtube.com/watch?v=yZpy_hsC1bE"
+    },
+    {
+      "id": "f6zqClXOh7Y",
+      "index": 34,
+      "title": "Dataloaders in LLM Classification Finetuning | Python Coding | Hands on LLM project",
+      "url": "https://www.youtube.com/watch?v=f6zqClXOh7Y"
+    },
+    {
+      "id": "izyxvl-2JlM",
+      "index": 35,
+      "title": "Coding the model architecture for LLM classification fine-tuning",
+      "url": "https://www.youtube.com/watch?v=izyxvl-2JlM"
+    },
+    {
+      "id": "0PpxZ3kNPWo",
+      "index": 36,
+      "title": "Coding a fine-tuned LLM spam classification model | From Scratch",
+      "url": "https://www.youtube.com/watch?v=0PpxZ3kNPWo"
+    },
+    {
+      "id": "1bLhvqZzdaQ",
+      "index": 37,
+      "title": "Introduction to LLM Instruction Fine-tuning | Loading Dataset | Alpaca Prompt format",
+      "url": "https://www.youtube.com/watch?v=1bLhvqZzdaQ"
+    },
+    {
+      "id": "bkUkcyL_Xxc",
+      "index": 38,
+      "title": "Data Batching in LLM instruction fine-tuning | Hands on project | Live Python coding",
+      "url": "https://www.youtube.com/watch?v=bkUkcyL_Xxc"
+    },
+    {
+      "id": "egFqsJQ9kuY",
+      "index": 39,
+      "title": "Dataloaders in Instruction Fine-tuning",
+      "url": "https://www.youtube.com/watch?v=egFqsJQ9kuY"
+    },
+    {
+      "id": "__OiQznq4ao",
+      "index": 40,
+      "title": "Instruction fine-tuning: Loading pre-trained LLM weights",
+      "url": "https://www.youtube.com/watch?v=__OiQznq4ao"
+    },
+    {
+      "id": "r7unILsP0Es",
+      "index": 41,
+      "title": "LLM fine-tuning training loop | Coded from scratch",
+      "url": "https://www.youtube.com/watch?v=r7unILsP0Es"
+    },
+    {
+      "id": "7m2jV7BOFkA",
+      "index": 42,
+      "title": "Evaluating fine-tuned LLM using Ollama",
+      "url": "https://www.youtube.com/watch?v=7m2jV7BOFkA"
+    },
+    {
+      "id": "_xH-jXNFRjA",
+      "index": 43,
+      "title": "Build LLMs from scratch 20 minutes summary",
+      "url": "https://www.youtube.com/watch?v=_xH-jXNFRjA"
+    }
+  ]
+}

@@ -1,0 +1,1841 @@
+{
+  "0": [
+    29,
+    37,
+    41
+  ],
+  "1": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    17,
+    21,
+    23,
+    27,
+    29,
+    36,
+    37,
+    38,
+    40
+  ],
+  "300-Dimensional Vector": [
+    10
+  ],
+  "AdamW": [
+    36
+  ],
+  "Adaptable": [
+    8,
+    9,
+    12
+  ],
+  "Add & Norm": [
+    23
+  ],
+  "Alpaka Format": [
+    39
+  ],
+  "Architectural Considerations": [
+    40
+  ],
+  "Architecture": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    29,
+    31,
+    34,
+    35,
+    36,
+    40,
+    43
+  ],
+  "Attention Heads": [
+    17,
+    24
+  ],
+  "Attention Mechanism": [
+    4,
+    5,
+    6,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    23,
+    24,
+    43
+  ],
+  "Attention Scores": [
+    15,
+    18
+  ],
+  "Attention Weights": [
+    4,
+    14,
+    15,
+    16,
+    18
+  ],
+  "BERT": [
+    4,
+    36
+  ],
+  "BPE": [
+    7
+  ],
+  "Backbone": [
+    25
+  ],
+  "Backpropagation": [
+    24
+  ],
+  "Backward Pass": [
+    36
+  ],
+  "Balanced Dataset": [
+    33
+  ],
+  "Batch": [
+    11,
+    20,
+    27,
+    33,
+    34,
+    37,
+    41
+  ],
+  "Batch Normalization": [
+    20
+  ],
+  "Batching": [
+    37
+  ],
+  "Bias": [
+    1,
+    20
+  ],
+  "Big O Notation": [
+    38
+  ],
+  "Binary Classification": [
+    35
+  ],
+  "CSV File": [
+    33
+  ],
+  "Caloss Loader": [
+    27
+  ],
+  "Causal Attention": [
+    16,
+    17
+  ],
+  "Character-level encoding": [
+    8
+  ],
+  "Chatbot": [
+    1,
+    2
+  ],
+  "Classification Head": [
+    35,
+    36
+  ],
+  "Code Generation": [
+    2
+  ],
+  "Computational Burden": [
+    6
+  ],
+  "Computational Cost": [
+    1,
+    3,
+    5
+  ],
+  "Computational Requirements": [
+    40
+  ],
+  "Concatenation": [
+    17
+  ],
+  "Context": [
+    4,
+    6,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    23,
+    31,
+    36,
+    41
+  ],
+  "Context Length": [
+    36
+  ],
+  "Context Vector": [
+    14,
+    15,
+    17
+  ],
+  "Context-Aware Representation": [
+    18
+  ],
+  "Contextual Information": [
+    6,
+    8,
+    14,
+    16,
+    23,
+    24
+  ],
+  "Contextual Relationships": [
+    4,
+    6,
+    11
+  ],
+  "Contextualization": [
+    13
+  ],
+  "Contextualized Representation": [
+    4,
+    18,
+    23
+  ],
+  "Convergence": [
+    19,
+    22,
+    36,
+    41
+  ],
+  "Cross Entropy": [
+    27
+  ],
+  "Cross-Entropy Loss": [
+    26,
+    27,
+    32
+  ],
+  "Cross-entropy loss": [
+    26,
+    27,
+    32
+  ],
+  "Data": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    12,
+    13,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    26,
+    27,
+    28,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "Data Analysis": [
+    2
+  ],
+  "Data Cleaning": [
+    34
+  ],
+  "Data Collection": [
+    3
+  ],
+  "Data Distribution": [
+    20
+  ],
+  "Data Frame": [
+    33
+  ],
+  "Data Frames": [
+    33
+  ],
+  "Data Loader": [
+    9,
+    28,
+    34,
+    39
+  ],
+  "Data Loaders": [
+    33,
+    34,
+    39
+  ],
+  "Data Preparation": [
+    12,
+    26,
+    28,
+    34,
+    36,
+    37,
+    40,
+    41,
+    43
+  ],
+  "Data Processing Pipeline": [
+    36
+  ],
+  "Data Quality": [
+    40
+  ],
+  "Data Segmentation": [
+    37
+  ],
+  "Data Set": [
+    9,
+    33,
+    37,
+    39,
+    41
+  ],
+  "Data Set Completion": [
+    41
+  ],
+  "Data Sets": [
+    34
+  ],
+  "Data Split": [
+    37
+  ],
+  "Data loader": [
+    9,
+    28,
+    34,
+    39
+  ],
+  "Data preparation": [
+    12,
+    26,
+    28,
+    34,
+    36,
+    37,
+    40,
+    41,
+    43
+  ],
+  "Data split": [
+    37
+  ],
+  "Data transfer": [
+    32,
+    40
+  ],
+  "Debugging": [
+    2
+  ],
+  "Decoder": [
+    4,
+    7,
+    23
+  ],
+  "Decoding Strategy": [
+    30
+  ],
+  "Deep Learning": [
+    1,
+    20,
+    32
+  ],
+  "Deep learning framework": [
+    32
+  ],
+  "Deletion": [
+    38
+  ],
+  "Dictionary": [
+    10,
+    31,
+    32
+  ],
+  "Dimension Reduction": [
+    17
+  ],
+  "Dimensionality": [
+    17
+  ],
+  "Distributed Training": [
+    20
+  ],
+  "Dot Product": [
+    14,
+    18
+  ],
+  "Download and load gpt2 params from TF checkpoint": [
+    32
+  ],
+  "Dropout": [
+    22
+  ],
+  "Dynamic Programming": [
+    38
+  ],
+  "Efficient Deployment": [
+    31
+  ],
+  "Efficient processing": [
+    9,
+    23
+  ],
+  "Embedding": [
+    7,
+    8,
+    10,
+    11,
+    12,
+    23,
+    24
+  ],
+  "Embedding Layer": [
+    24
+  ],
+  "Embedding Matrix": [
+    11
+  ],
+  "Embeddings": [
+    1,
+    4,
+    7,
+    10,
+    11,
+    12,
+    15,
+    19,
+    23,
+    24
+  ],
+  "Encoder": [
+    4,
+    8,
+    23
+  ],
+  "Encoding": [
+    7,
+    8,
+    10,
+    23,
+    24
+  ],
+  "Epoch": [
+    41
+  ],
+  "Feature": [
+    20
+  ],
+  "Feature1": [
+    37
+  ],
+  "Feature2": [
+    37
+  ],
+  "Feed Forward Network": [
+    23
+  ],
+  "Feed Forward Neural Network": [
+    43
+  ],
+  "Feed-Forward Neural Network": [
+    22,
+    24
+  ],
+  "Feed-forward neural network": [
+    22,
+    24
+  ],
+  "Feedforward Neural Network": [
+    19
+  ],
+  "Few-Shot Learning": [
+    5
+  ],
+  "File": [
+    10,
+    31,
+    32,
+    33,
+    34,
+    42
+  ],
+  "Fine-Tuning": [
+    3,
+    5,
+    6,
+    34,
+    36,
+    40,
+    41,
+    43
+  ],
+  "Fine-tuning": [
+    3,
+    5,
+    6,
+    34,
+    36,
+    40,
+    41,
+    43
+  ],
+  "Flexibility": [
+    12,
+    20
+  ],
+  "Forward Neural Network Activation": [
+    25
+  ],
+  "Forward Pass": [
+    15,
+    43
+  ],
+  "GPT": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    12,
+    19,
+    20,
+    24,
+    25,
+    29,
+    30,
+    31,
+    32,
+    35,
+    36,
+    40
+  ],
+  "GPT Architecture": [
+    5,
+    7,
+    20,
+    24,
+    29,
+    31
+  ],
+  "GPT Model": [
+    7,
+    19,
+    24,
+    30,
+    32,
+    36
+  ],
+  "GPT model": [
+    7,
+    19,
+    24,
+    30,
+    32,
+    36
+  ],
+  "GPT-2": [
+    5,
+    25
+  ],
+  "GPT-3": [
+    5,
+    6,
+    7,
+    40
+  ],
+  "GPT-4": [
+    1,
+    5,
+    6,
+    7
+  ],
+  "GPU Acceleration": [
+    36
+  ],
+  "Generalization": [
+    34,
+    37,
+    40
+  ],
+  "Generalization Ability": [
+    34,
+    37
+  ],
+  "Generative Pre-training": [
+    5
+  ],
+  "Gradient": [
+    22,
+    43
+  ],
+  "Hierarchical approach": [
+    8
+  ],
+  "Hugging Face": [
+    36,
+    40
+  ],
+  "Hyperparameter": [
+    34,
+    37
+  ],
+  "Hyperparameter Tuning": [
+    34,
+    37
+  ],
+  "Inference": [
+    5,
+    24,
+    31
+  ],
+  "Initial Training Phase": [
+    3,
+    41
+  ],
+  "Initialization": [
+    34,
+    40
+  ],
+  "Input": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    32,
+    34,
+    35,
+    36,
+    38,
+    39,
+    41,
+    43
+  ],
+  "Input Embedding": [
+    23
+  ],
+  "Input Embeddings": [
+    4,
+    11,
+    12,
+    15,
+    19,
+    23
+  ],
+  "Input Sequence": [
+    4,
+    5,
+    6,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    22,
+    23,
+    24,
+    32,
+    43
+  ],
+  "Input-output pairs": [
+    9
+  ],
+  "Insertion": [
+    38
+  ],
+  "Instruction Following": [
+    41
+  ],
+  "Instruction-Response Pairs": [
+    39
+  ],
+  "Integer Representation": [
+    33
+  ],
+  "Iterate": [
+    9,
+    31
+  ],
+  "Iteration": [
+    31
+  ],
+  "Iterative": [
+    24,
+    26,
+    34,
+    36,
+    40,
+    41,
+    43
+  ],
+  "Key": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    40,
+    41,
+    42
+  ],
+  "LLM": [
+    1,
+    2,
+    3,
+    9,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "LLM training": [
+    9
+  ],
+  "Label": [
+    37
+  ],
+  "Lama 3.1": [
+    1
+  ],
+  "Language Model": [
+    1,
+    3,
+    12,
+    25,
+    29,
+    32,
+    33,
+    35,
+    36,
+    39,
+    41,
+    43
+  ],
+  "Language Modeling": [
+    4,
+    11
+  ],
+  "Large Language Model": [
+    1,
+    3,
+    12,
+    25,
+    29,
+    32,
+    35,
+    39,
+    41,
+    43
+  ],
+  "Large Language Models": [
+    1,
+    2,
+    5,
+    6,
+    10,
+    12,
+    22,
+    24,
+    26,
+    27,
+    31,
+    33,
+    36,
+    40
+  ],
+  "Large text datasets": [
+    9
+  ],
+  "Layer": [
+    11,
+    17,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    31,
+    35,
+    36,
+    43
+  ],
+  "Layer Normalization": [
+    19,
+    20,
+    22,
+    23,
+    25
+  ],
+  "Layer normalization": [
+    19,
+    20,
+    22,
+    23,
+    25
+  ],
+  "Learning": [
+    1,
+    5,
+    13,
+    14,
+    17,
+    20,
+    22,
+    25,
+    26,
+    27,
+    28,
+    32,
+    33,
+    34,
+    36,
+    37,
+    41
+  ],
+  "Learning process": [
+    5,
+    14,
+    22,
+    26,
+    28
+  ],
+  "Load": [
+    31,
+    32,
+    36,
+    42
+  ],
+  "Loading": [
+    9,
+    31,
+    32,
+    33,
+    34,
+    36,
+    40,
+    42
+  ],
+  "Local context": [
+    9
+  ],
+  "Logits": [
+    30,
+    36
+  ],
+  "Long Sequences": [
+    4,
+    13,
+    15,
+    18,
+    23
+  ],
+  "Long-Range Dependencies": [
+    4,
+    6,
+    14,
+    15,
+    16,
+    18,
+    19,
+    22,
+    23,
+    24
+  ],
+  "Long-Range Dependency": [
+    16,
+    18
+  ],
+  "Long-range dependencies": [
+    4,
+    6,
+    14,
+    15,
+    16,
+    18,
+    19,
+    22,
+    23,
+    24
+  ],
+  "Loss": [
+    26,
+    27,
+    28,
+    32,
+    36,
+    41,
+    43
+  ],
+  "Loss Function": [
+    27,
+    28,
+    32,
+    43
+  ],
+  "Machine Learning": [
+    1,
+    13,
+    33,
+    34,
+    37
+  ],
+  "Mask": [
+    16
+  ],
+  "Masked Self-Attention": [
+    23
+  ],
+  "Memoization": [
+    38
+  ],
+  "Memory Footprint": [
+    24,
+    31
+  ],
+  "Metrics": [
+    34
+  ],
+  "Model": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "Model Architecture": [
+    25,
+    34,
+    43
+  ],
+  "Model Capacity": [
+    17
+  ],
+  "Model Class": [
+    31
+  ],
+  "Model Configuration": [
+    37
+  ],
+  "Model Initialization": [
+    34,
+    40
+  ],
+  "Model Output": [
+    26
+  ],
+  "Model Parameters": [
+    32,
+    35,
+    37
+  ],
+  "Model Performance": [
+    13,
+    33,
+    34,
+    36,
+    37,
+    39,
+    40
+  ],
+  "Model Weights": [
+    31,
+    32,
+    40
+  ],
+  "Model parameters": [
+    32,
+    35,
+    37
+  ],
+  "Model training": [
+    20,
+    28,
+    33,
+    34,
+    41
+  ],
+  "Multi-Head Attention": [
+    17,
+    43
+  ],
+  "Multi-attention": [
+    22
+  ],
+  "NLG": [
+    2
+  ],
+  "NLU": [
+    2
+  ],
+  "Negative Infinity": [
+    30
+  ],
+  "Neural Network": [
+    6,
+    10,
+    11,
+    14,
+    15,
+    17,
+    18,
+    19,
+    22,
+    24,
+    25,
+    36,
+    43
+  ],
+  "Neural network": [
+    6,
+    10,
+    11,
+    14,
+    15,
+    17,
+    18,
+    19,
+    22,
+    24,
+    25,
+    36,
+    43
+  ],
+  "Next Token": [
+    24,
+    26,
+    29,
+    32,
+    43
+  ],
+  "Normalization Layers": [
+    43
+  ],
+  "OOV": [
+    7
+  ],
+  "Open-Source": [
+    1,
+    40
+  ],
+  "Optimal Solution": [
+    38
+  ],
+  "Optimization": [
+    1,
+    34,
+    36,
+    38,
+    40
+  ],
+  "Optimization Algorithm": [
+    34
+  ],
+  "Out-of-vocabulary words": [
+    8
+  ],
+  "Output": [
+    4,
+    5,
+    6,
+    9,
+    11,
+    12,
+    14,
+    15,
+    17,
+    18,
+    19,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    32,
+    35,
+    39,
+    40,
+    41,
+    43
+  ],
+  "Output pairs": [
+    9,
+    39,
+    41
+  ],
+  "Overfitting": [
+    20,
+    22,
+    30,
+    32,
+    37
+  ],
+  "Overlapping Subproblems": [
+    38
+  ],
+  "Pandas DataFrame": [
+    33
+  ],
+  "Parallel Processing": [
+    4,
+    5,
+    15
+  ],
+  "Parallelizable": [
+    14
+  ],
+  "Parameter": [
+    24,
+    29,
+    30,
+    31,
+    35,
+    40
+  ],
+  "Parameter Adjustment": [
+    40
+  ],
+  "Parameter Count": [
+    24
+  ],
+  "Parameters": [
+    5,
+    11,
+    15,
+    17,
+    23,
+    24,
+    25,
+    27,
+    30,
+    31,
+    32,
+    35,
+    36,
+    37,
+    40,
+    41,
+    42,
+    43
+  ],
+  "Perplexity": [
+    26
+  ],
+  "Positional Embedding": [
+    11
+  ],
+  "Positional Encoding": [
+    23
+  ],
+  "Pre-trained Model": [
+    3,
+    6,
+    32,
+    36,
+    41,
+    43
+  ],
+  "Pre-training": [
+    3,
+    5,
+    6,
+    31,
+    32,
+    43
+  ],
+  "Prediction": [
+    24,
+    26,
+    36,
+    43
+  ],
+  "Probability": [
+    15,
+    24,
+    26,
+    29,
+    30,
+    32
+  ],
+  "Probability Distribution": [
+    15,
+    24,
+    26,
+    29,
+    30,
+    32
+  ],
+  "PyTorch": [
+    9,
+    23,
+    27,
+    31,
+    36
+  ],
+  "PyTorch data loader": [
+    9
+  ],
+  "Qualitative Assessment": [
+    41
+  ],
+  "Query": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "Query Matrix": [
+    16
+  ],
+  "Randomly Initialized Parameters": [
+    25
+  ],
+  "Rapid Convergence": [
+    41
+  ],
+  "Ratio": [
+    28
+  ],
+  "Raw Data": [
+    3,
+    39
+  ],
+  "Regularization": [
+    1,
+    16,
+    20
+  ],
+  "Resource-constrained": [
+    20
+  ],
+  "Robustness": [
+    17,
+    20
+  ],
+  "SMS Spam Collection": [
+    33
+  ],
+  "Safety": [
+    1
+  ],
+  "Sampling": [
+    29,
+    30,
+    33,
+    43
+  ],
+  "Save": [
+    31
+  ],
+  "Scalability": [
+    18,
+    20,
+    24
+  ],
+  "Scale": [
+    5,
+    18,
+    20
+  ],
+  "Scaled Dot-Product Attention": [
+    23
+  ],
+  "Scaling Factor": [
+    14
+  ],
+  "Search": [
+    38
+  ],
+  "Self-Attention": [
+    4,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    23,
+    24
+  ],
+  "Self-attention": [
+    4,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    23,
+    24
+  ],
+  "Self-regularization": [
+    20
+  ],
+  "Sentiment Analysis": [
+    2,
+    3,
+    6
+  ],
+  "Sequence": [
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    22,
+    23,
+    24,
+    26,
+    29,
+    32,
+    36,
+    39,
+    43
+  ],
+  "Sequence Length": [
+    15,
+    18
+  ],
+  "Sequence-to-Sequence": [
+    23
+  ],
+  "Sequential data": [
+    4,
+    16,
+    19,
+    28
+  ],
+  "Shortcut Connection": [
+    22,
+    25
+  ],
+  "Shortcut connection": [
+    22,
+    25
+  ],
+  "Sliding Window": [
+    9
+  ],
+  "Sliding window": [
+    9
+  ],
+  "Softmax": [
+    15,
+    16,
+    18,
+    26,
+    27
+  ],
+  "Software Development": [
+    2
+  ],
+  "Space Complexity": [
+    38
+  ],
+  "Split": [
+    7,
+    33,
+    37
+  ],
+  "Stacked Transformer Blocks": [
+    24
+  ],
+  "State": [
+    15,
+    23,
+    31,
+    42
+  ],
+  "State Dictionary": [
+    31
+  ],
+  "State dict": [
+    42
+  ],
+  "Structured manner": [
+    9
+  ],
+  "Subword": [
+    7,
+    8,
+    12
+  ],
+  "Subword Tokenization": [
+    12
+  ],
+  "Subword tokenization": [
+    12
+  ],
+  "Target": [
+    9,
+    24,
+    27,
+    28,
+    32,
+    36,
+    40
+  ],
+  "Tasks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    13,
+    15,
+    16,
+    17,
+    18,
+    23,
+    26,
+    27,
+    36,
+    38,
+    40
+  ],
+  "Temperature": [
+    29,
+    30,
+    32
+  ],
+  "Temperature Scaling": [
+    29,
+    30,
+    32
+  ],
+  "Temperature scaling": [
+    29,
+    30,
+    32
+  ],
+  "TensorFlow": [
+    32
+  ],
+  "Test Data Frame": [
+    33
+  ],
+  "Testing Batch": [
+    37
+  ],
+  "Testing Data": [
+    33,
+    37
+  ],
+  "Text Summarization": [
+    2,
+    15,
+    23
+  ],
+  "Time Complexity Analysis": [
+    38
+  ],
+  "Token": [
+    7,
+    8,
+    11,
+    12,
+    16,
+    19,
+    24,
+    26,
+    29,
+    32,
+    36,
+    39,
+    43
+  ],
+  "Token ID": [
+    11
+  ],
+  "Token IDs": [
+    7,
+    8,
+    11,
+    19,
+    36,
+    39
+  ],
+  "Tokenization": [
+    7,
+    8,
+    9,
+    12,
+    36
+  ],
+  "Tokenizer": [
+    7,
+    12,
+    32,
+    36
+  ],
+  "Top-k Sampling": [
+    29,
+    30
+  ],
+  "Tqdm": [
+    32
+  ],
+  "Training": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    14,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    39,
+    40,
+    41,
+    43
+  ],
+  "Training Batch": [
+    37
+  ],
+  "Training Data": [
+    5,
+    7,
+    26,
+    28,
+    33,
+    37
+  ],
+  "Training Data Frame": [
+    33
+  ],
+  "Training Loop": [
+    27,
+    32,
+    36,
+    41
+  ],
+  "Training Loss": [
+    41
+  ],
+  "Training Phase": [
+    3,
+    37,
+    41
+  ],
+  "Training Process": [
+    1,
+    5,
+    9,
+    11,
+    20,
+    25,
+    26,
+    27,
+    36,
+    39,
+    41
+  ],
+  "Transformer": [
+    4,
+    5,
+    6,
+    8,
+    13,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    43
+  ],
+  "Transformer Architecture": [
+    4,
+    5,
+    6,
+    8,
+    13,
+    21,
+    22,
+    23,
+    25
+  ],
+  "Transformer Block": [
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    43
+  ],
+  "Transformer architecture": [
+    4,
+    5,
+    6,
+    8,
+    13,
+    21,
+    22,
+    23,
+    25
+  ],
+  "Unlabeled Text": [
+    6
+  ],
+  "Validation Batch": [
+    37
+  ],
+  "Validation Data": [
+    33,
+    37
+  ],
+  "Validation Data Frame": [
+    33
+  ],
+  "Validation Loss": [
+    41
+  ],
+  "Validation Set": [
+    41
+  ],
+  "Validation set": [
+    41
+  ],
+  "Value": [
+    13,
+    14,
+    15,
+    16,
+    21,
+    27,
+    31,
+    36,
+    38
+  ],
+  "Vanishing Gradients": [
+    4,
+    15
+  ],
+  "Vanishing gradient problem": [
+    22
+  ],
+  "Vector Embedding": [
+    10
+  ],
+  "Vector Space": [
+    10,
+    11,
+    23
+  ],
+  "Vocabulary": [
+    7,
+    8,
+    10,
+    11,
+    12,
+    24,
+    30
+  ],
+  "Vocabulary Size": [
+    8,
+    10,
+    11
+  ],
+  "Weight": [
+    15,
+    16,
+    18,
+    40
+  ],
+  "Weighted Sum": [
+    4,
+    14,
+    15,
+    18
+  ],
+  "Window": [
+    9,
+    18
+  ],
+  "Word-to-Vector Mapping": [
+    10
+  ],
+  "nn.functional": [
+    27
+  ],
+  "softmax": [
+    15,
+    16,
+    18,
+    26,
+    27
+  ]
+}

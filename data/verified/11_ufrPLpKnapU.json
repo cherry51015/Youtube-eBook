@@ -1,0 +1,49 @@
+{
+  "chapter_file": "11_ufrPLpKnapU.md",
+  "video_id": "ufrPLpKnapU",
+  "paragraphs": [
+    {
+      "text": "The core of this implementation centers on establishing a positional embedding system \u2013 a technique that transforms the \u2026",
+      "score": 0.6269,
+      "status": "verified",
+      "best_chunk_id": "c03"
+    },
+    {
+      "text": "The initial stage involves constructing the token embedding matrix, a 256-dimensional vector space. This matrix is const\u2026",
+      "score": 0.7777,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The implementation begins with the creation of the token embedding matrix, which is a 256-dimensional vector space. This\u2026",
+      "score": 0.7846,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The next step involves the creation of the input embeddings, which are the final representation of the input sequence. T\u2026",
+      "score": 0.5838,
+      "status": "verified",
+      "best_chunk_id": "c03"
+    },
+    {
+      "text": "The implementation utilizes the `torch.nn.Embedding` layer to create the token embedding matrix. The `torch.nn.Embedding\u2026",
+      "score": 0.7757,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "*   The implementation utilizes the `torch.nn.Embedding` layer to create the token embedding matrix.\n*   The embedding m\u2026",
+      "score": 0.7719,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "verified": 6,
+    "flagged": 0,
+    "avg_score": 0.7201,
+    "threshold": 0.35
+  }
+}

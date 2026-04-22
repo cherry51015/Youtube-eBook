@@ -1,0 +1,37 @@
+{
+  "chapter_file": "18_K5u9eEaoxFg.md",
+  "video_id": "K5u9eEaoxFg",
+  "paragraphs": [
+    {
+      "text": "The model\u2019s operational core hinges upon calculating attention scores, a critical element for contextual understanding w\u2026",
+      "score": 0.5728,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The model employs a unique approach to attention \u2013 a dot-product attention mechanism. This method is particularly effect\u2026",
+      "score": 0.5678,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The model\u2019s attention mechanism is designed to be computationally efficient, making it suitable for large-scale applicat\u2026",
+      "score": 0.4864,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   Dot-product attention is a core component of transformer architectures, enabling efficient long-range dependency mod\u2026",
+      "score": 0.4885,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 4,
+    "flagged": 0,
+    "avg_score": 0.5289,
+    "threshold": 0.35
+  }
+}

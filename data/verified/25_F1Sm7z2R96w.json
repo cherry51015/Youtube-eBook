@@ -1,0 +1,49 @@
+{
+  "chapter_file": "25_F1Sm7z2R96w.md",
+  "video_id": "F1Sm7z2R96w",
+  "paragraphs": [
+    {
+      "text": "This lecture provides a detailed examination of the architecture and training process for the GPT-2 model. We will explo\u2026",
+      "score": 0.5058,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The initial stage of model architecture development centers around a foundational backbone model, functioning as a dummy\u2026",
+      "score": 0.4217,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The training process begins with randomly initialized parameters. Subsequently, the layer normalization, forward neural \u2026",
+      "score": 0.3912,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "This lecture will delve into the process of building the model\u2019s architecture and the training steps involved. The initi\u2026",
+      "score": 0.4947,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "(Source: c03) This lecture presents a detailed examination of the GPT-2 model\u2019s architecture and training process. It co\u2026",
+      "score": 0.5247,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   GPT-2 is a large language model based on the Transformer architecture.\n*   The model\u2019s architecture comprises multip\u2026",
+      "score": 0.6408,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "verified": 6,
+    "flagged": 0,
+    "avg_score": 0.4965,
+    "threshold": 0.35
+  }
+}

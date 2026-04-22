@@ -1,0 +1,97 @@
+{
+  "chapter_file": "40___OiQznq4ao.md",
+  "video_id": "__OiQznq4ao",
+  "paragraphs": [
+    {
+      "text": "This chapter details the crucial process of instruction fine-tuning, a technique essential for adapting large language m\u2026",
+      "score": 0.6273,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**1. Model Weight Download and Initialization**",
+      "score": 0.4382,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The initial step involves downloading the pre-trained weights of a chosen LLM from open-source repositories such as Hugg\u2026",
+      "score": 0.6459,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**2. Fine-Tuning: Adapting to Specific Tasks**",
+      "score": 0.3808,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Fine-tuning is the process of adjusting the model\u2019s parameters\u2014the weights\u2014using a smaller, labeled dataset specifically\u2026",
+      "score": 0.5165,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**3. Architectural Considerations and Parameter Adjustment**",
+      "score": 0.2755,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "LLMs are designed to handle complex relationships within the data, and the fine-tuning process is specifically engineere\u2026",
+      "score": 0.5094,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**4. Data Selection and Quality \u2013 A Critical Factor**",
+      "score": 0.2665,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The quality of the fine-tuning dataset is paramount to the model\u2019s success. A poorly chosen dataset will result in a mod\u2026",
+      "score": 0.4186,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**5. Computational Requirements and Efficiency**",
+      "score": 0.2404,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The process of fine-tuning is computationally intensive, demanding significant processing power and memory. The model\u2019s \u2026",
+      "score": 0.4982,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Loading weights, preparing data, and fine-tuning are essential steps in the utilization of LLMs. The process of fine-tun\u2026",
+      "score": 0.5968,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Loading weights, preparing data, and fine-tuning are essential steps in the process of utilizing LLMs. The process of fi\u2026",
+      "score": 0.5957,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   Loading weights, data preparation, and fine-tuning are fundamental to leveraging LLMs.\n*   Fine-tuning enhances a mo\u2026",
+      "score": 0.6356,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 14,
+    "verified": 11,
+    "flagged": 3,
+    "avg_score": 0.4747,
+    "threshold": 0.35
+  }
+}

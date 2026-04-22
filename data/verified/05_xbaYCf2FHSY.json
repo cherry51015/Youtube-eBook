@@ -1,0 +1,43 @@
+{
+  "chapter_file": "05_xbaYCf2FHSY.md",
+  "video_id": "xbaYCf2FHSY",
+  "paragraphs": [
+    {
+      "text": "es, the initial paper, \u2018Attention is All You Need,\u2019 introduced the Transformer architecture, a groundbreaking design tha\u2026",
+      "score": 0.6848,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The core of GPT models, and the subsequent generation of models like GPT-4, relies on a generative pre-training approach\u2026",
+      "score": 0.6336,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The emergence of GPT-3\u2019s capabilities, particularly in few-shot learning, represents a significant shift. Few-shot learn\u2026",
+      "score": 0.6246,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Here are some key takeaways from this chapter:",
+      "score": 0.1623,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   **Transformer Architecture:** The Transformer architecture, introduced in 2017, replaced recurrent models with a nov\u2026",
+      "score": 0.6825,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 4,
+    "flagged": 1,
+    "avg_score": 0.5576,
+    "threshold": 0.35
+  }
+}

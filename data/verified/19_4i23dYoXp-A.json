@@ -1,0 +1,43 @@
+{
+  "chapter_file": "19_4i23dYoXp-A.md",
+  "video_id": "4i23dYoXp-A",
+  "paragraphs": [
+    {
+      "text": "This chapter outlines the foundational architecture of our GPT model, a sophisticated neural network designed for proces\u2026",
+      "score": 0.4539,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The model\u2019s architecture is structured around a separate layer normalization block, implemented before the Transformer b\u2026",
+      "score": 0.4169,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The model\u2019s input is a sequence of tokens, which are converted into token IDs. These token IDs are then fed into the Tra\u2026",
+      "score": 0.5759,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   The Transformer block leverages self-attention to model relationships between tokens.\n*   Layer normalization stabil\u2026",
+      "score": 0.542,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "(Sources: [Insert relevant source citations here \u2013 e.g., research papers, technical documentation])",
+      "score": 0.1253,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 4,
+    "flagged": 1,
+    "avg_score": 0.4228,
+    "threshold": 0.35
+  }
+}

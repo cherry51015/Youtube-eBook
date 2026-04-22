@@ -1,0 +1,37 @@
+{
+  "chapter_file": "31_Bc-9sf0VihQ.md",
+  "video_id": "Bc-9sf0VihQ",
+  "paragraphs": [
+    {
+      "text": "The process of loading and saving model weights is a cornerstone of working with large language models, particularly whe\u2026",
+      "score": 0.6511,
+      "status": "verified",
+      "best_chunk_id": "c04"
+    },
+    {
+      "text": "\u201cThe `torch.load()` function is a vital component of the model\u2019s lifecycle, enabling the retrieval of the saved paramete\u2026",
+      "score": 0.6558,
+      "status": "verified",
+      "best_chunk_id": "c03"
+    },
+    {
+      "text": "\u201cIn the context of pre-training, the process of loading pre-trained weights from open ai involves integrating the model \u2026",
+      "score": 0.5583,
+      "status": "verified",
+      "best_chunk_id": "c04"
+    },
+    {
+      "text": "*   Loading and saving model weights is a core workflow for large language models.\n*   `torch.save()` writes the model's\u2026",
+      "score": 0.5926,
+      "status": "verified",
+      "best_chunk_id": "c03"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 4,
+    "flagged": 0,
+    "avg_score": 0.6145,
+    "threshold": 0.35
+  }
+}

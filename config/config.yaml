@@ -1,0 +1,34 @@
+playlist:
+  url: "https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu"
+  id: "PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu"
+
+book:
+  title: "Building LLMs from Scratch"
+  subtitle: "A Complete Technical Guide — From Tokenization to Fine-Tuning"
+  author: "Derived from the YouTube Playlist by the Original Instructor"
+  version: "1.0"
+
+llm:
+  backend: "ollama"        # options: ollama | anthropic | openai
+  model: "gemma3:1b"         # ollama model name; ignored for other backends
+  temperature: 0.3
+  max_tokens: 1024
+  ollama_url: "http://localhost:11434"
+
+embedding:
+  model: "all-MiniLM-L6-v2"   # free, local, fast — 80MB
+  verification_threshold: 0.35  # paragraphs below this are flagged
+
+chunking:
+  target_chars: 600         # soft target per chunk
+  max_chars: 900            # hard ceiling per chunk
+  min_chars: 80             # discard chunks below this
+  pause_threshold_sec: 2.0  # timestamp gap that signals a topic break
+
+paths:
+  raw: "data/raw"
+  chunks: "data/chunks"
+  structured: "data/structured"
+  chapters: "data/chapters"
+  verified: "data/verified"
+  outputs: "outputs"

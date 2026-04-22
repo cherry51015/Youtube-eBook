@@ -1,0 +1,37 @@
+{
+  "chapter_file": "32_yXrGeDNuymY.md",
+  "video_id": "yXrGeDNuymY",
+  "paragraphs": [
+    {
+      "text": "The initial phase of this project centered on defining the loss function for the large language model. This loss functio\u2026",
+      "score": 0.5881,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Following the initial loss function calibration, the next step involved integrating the pre-trained GPT model into our c\u2026",
+      "score": 0.5187,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The core of the implementation now focuses on loading the pre-trained weights from OpenAI\u2019s GPT2 model. This involves ut\u2026",
+      "score": 0.6017,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   Temperature scaling was initially used to mitigate overfitting, but it did not fully resolve the issue of disconnect\u2026",
+      "score": 0.5561,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 4,
+    "flagged": 0,
+    "avg_score": 0.5662,
+    "threshold": 0.35
+  }
+}

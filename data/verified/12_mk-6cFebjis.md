@@ -1,0 +1,15 @@
+<!-- chapter:12 video_id:mk-6cFebjis title:Tokenization source:https://www.youtube.com/watch?v=mk-6cFebjis -->
+
+# Chapter 12: Tokenization
+
+## Tokenization
+
+Tokenization is the initial stage of data preparation for large language models, representing the fundamental process of breaking down a text into smaller, more manageable units – known as tokens – that the model can then process. It’s a crucial step as large language models operate on sequences of these tokens, rather than raw text. The goal of tokenization is to create a structured representation of the input data that the model can understand and utilize for its core task of generating text. Essentially, we’re transforming a continuous stream of text into a discrete vocabulary of individual units, enabling the model to focus on meaningful relationships within the text. The process isn’t simply about splitting the text; it’s a sophisticated transformation that leverages various techniques to create a consistent and meaningful representation of the input. The choice of tokenizer significantly impacts the model’s performance and the type of text it can effectively handle.
+
+<!-- VERIFY: low grounding score -->
+The initial approach to tokenization often involves word-based tokenization, a method that converts the text into individual words. This is the foundation upon which many subword tokenization techniques are built. Word-based tokenization, exemplified by the tokenizer used in GPT models, splits the text into individual words based on whitespace. However, this approach has limitations, particularly when dealing with complex or ambiguous text. The subword-based tokenizer, such as the one used in GPT2, tackles this limitation by breaking words into smaller units – often bite pairs – which allows the model to handle rare words and morphological variations more effectively. The ‘bite pair’ approach, as implemented in GPT2, involves splitting words into smaller units, which allows for greater flexibility in the model’s understanding of the text. This is a significant step towards creating a more robust and adaptable data representation.
+
+Beyond word-based tokenization, the introduction of embeddings is a critical component of the data preparation pipeline. These embeddings represent each token as a vector of numbers, capturing semantic meaning and relationships between words. The embedding process transforms each token into a numerical representation, allowing the model to perform mathematical operations on the tokens and understand the context of the text. The embedding is essentially a mapping of each token to a point in a high-dimensional space, where similar tokens are located closer together. The choice of embedding method – such as those used in GPT models – is vital for the model’s ability to understand the nuances of the text. The embedding process is a fundamental step in preparing the data for the large language model, enabling it to process the text in a more meaningful way.
+
+The final step in the data preparation process is the creation of input embeddings, which are the output of the tokenization p
+

@@ -1,0 +1,43 @@
+{
+  "chapter_file": "41_r7unILsP0Es.md",
+  "video_id": "r7unILsP0Es",
+  "paragraphs": [
+    {
+      "text": "This chapter details the process of fine-tuning a large language model (LLM) for instruction following, emphasizing the \u2026",
+      "score": 0.6099,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "**The Data Set \u2013 A Foundation for Instruction Following**",
+      "score": 0.3819,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The core of this process is the fine-tuning of the LLM, a technique that adapts the pre-trained model to a specific task\u2026",
+      "score": 0.6514,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The model\u2019s performance is evaluated through a plot of training loss and validation loss, which show a rapid decrease in\u2026",
+      "score": 0.5351,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   **Data Preparation:** The initial data set, comprising 1100 instruction-output pairs, is meticulously crafted to est\u2026",
+      "score": 0.5863,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 5,
+    "flagged": 0,
+    "avg_score": 0.5529,
+    "threshold": 0.35
+  }
+}

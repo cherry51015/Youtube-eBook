@@ -1,0 +1,55 @@
+{
+  "chapter_file": "10_ghCSGRgVB_o.md",
+  "video_id": "ghCSGRgVB_o",
+  "paragraphs": [
+    {
+      "text": "Vector embeddings represent a fundamental shift in how we approach natural language processing. Prior to this, models re\u2026",
+      "score": 0.6878,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The creation of vector embeddings is a crucial step in the training of large language models. The process involves train\u2026",
+      "score": 0.6392,
+      "status": "verified",
+      "best_chunk_id": "c03"
+    },
+    {
+      "text": "**Illustrative Example \u2013 Word-to-Vector Mapping**",
+      "score": 0.487,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The initial demonstration focused on illustrating the core concept of vector embeddings \u2013 that they can be used to encod\u2026",
+      "score": 0.6309,
+      "status": "verified",
+      "best_chunk_id": "c08"
+    },
+    {
+      "text": "Here are some key takeaways from this initial demonstration:",
+      "score": 0.2054,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   The core concept is to represent each word as a vector of three dimensions.\n*   This is achieved through a process c\u2026",
+      "score": 0.639,
+      "status": "verified",
+      "best_chunk_id": "c03"
+    },
+    {
+      "text": "The demonstration is a simple example of how this works, by assigning a dictionary to the word to W. The 300-dimensional\u2026",
+      "score": 0.5652,
+      "status": "verified",
+      "best_chunk_id": "c04"
+    }
+  ],
+  "summary": {
+    "total": 7,
+    "verified": 6,
+    "flagged": 1,
+    "avg_score": 0.5506,
+    "threshold": 0.35
+  }
+}

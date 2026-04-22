@@ -1,0 +1,49 @@
+{
+  "chapter_file": "26_7TKCrt--bWI.md",
+  "video_id": "7TKCrt--bWI",
+  "paragraphs": [
+    {
+      "text": "Large Language Models (LLMs) represent a significant advancement in artificial intelligence, particularly in the realm o\u2026",
+      "score": 0.5761,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The training process begins with preparing the input data. This involves tokenizing the text \u2013 breaking it down into sma\u2026",
+      "score": 0.4276,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The implementation of the cross-entropy loss is a crucial step in the training process. The cross-entropy loss quantifie\u2026",
+      "score": 0.5349,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The use of the softmax function is central to the model\u2019s prediction process. The softmax function transforms the model\u2019\u2026",
+      "score": 0.4205,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The lecture will demonstrate the entire training process, starting with data preparation and culminating in the model\u2019s \u2026",
+      "score": 0.4466,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   LLMs are trained to predict the next token in a sequence, iteratively refining their understanding of language.\n*   \u2026",
+      "score": 0.5143,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "verified": 6,
+    "flagged": 0,
+    "avg_score": 0.4867,
+    "threshold": 0.35
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "chapter_file": "12_mk-6cFebjis.md",
+  "video_id": "mk-6cFebjis",
+  "paragraphs": [
+    {
+      "text": "Tokenization is the initial stage of data preparation for large language models, representing the fundamental process of\u2026",
+      "score": 0.5441,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The initial approach to tokenization often involves word-based tokenization, a method that converts the text into indivi\u2026",
+      "score": 0.3215,
+      "status": "FLAGGED",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "Beyond word-based tokenization, the introduction of embeddings is a critical component of the data preparation pipeline.\u2026",
+      "score": 0.4656,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The final step in the data preparation process is the creation of input embeddings, which are the output of the tokeniza\u2026",
+      "score": 0.5488,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 3,
+    "flagged": 1,
+    "avg_score": 0.47,
+    "threshold": 0.35
+  }
+}

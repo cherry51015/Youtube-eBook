@@ -1,0 +1,67 @@
+{
+  "chapter_file": "36_0PpxZ3kNPWo.md",
+  "video_id": "0PpxZ3kNPWo",
+  "paragraphs": [
+    {
+      "text": "The process of fine-tuning a pre-trained language model for a specific task is a critical step in leveraging the power o\u2026",
+      "score": 0.3933,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The initial steps involve setting up the environment, loading the pre-trained model, and preparing the data. The foundat\u2026",
+      "score": 0.5319,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "Before commencing fine-tuning, a suitable environment is essential. This typically involves installing necessary librari\u2026",
+      "score": 0.378,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The next step is to load a pre-trained language model from a repository like Hugging Face\u2019s Transformers library. This m\u2026",
+      "score": 0.4085,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "Data preparation is a critical component. The input data needs to be formatted in a way that the model can understand. T\u2026",
+      "score": 0.3855,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The tokenizer, a component of the model, is responsible for breaking down the input text into individual units, which ar\u2026",
+      "score": 0.333,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The Adam optimizer is a modification of the standard Adam algorithm, designed to converge in a smoother manner and accel\u2026",
+      "score": 0.5374,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The Adam optimizer is a modification of the standard Adam algorithm, designed to converge in a smoother manner and accel\u2026",
+      "score": 0.5374,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "The model\u2019s prediction is based on the logits, which are the outputs of the last layer of the model. The model\u2019s predict\u2026",
+      "score": 0.2592,
+      "status": "FLAGGED",
+      "best_chunk_id": "c02"
+    }
+  ],
+  "summary": {
+    "total": 9,
+    "verified": 7,
+    "flagged": 2,
+    "avg_score": 0.4182,
+    "threshold": 0.35
+  }
+}

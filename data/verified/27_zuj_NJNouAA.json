@@ -1,0 +1,37 @@
+{
+  "chapter_file": "27_zuj_NJNouAA.md",
+  "video_id": "zuj_NJNouAA",
+  "paragraphs": [
+    {
+      "text": "The Caloss Loader is a crucial component within the training pipeline for large language models, specifically designed t\u2026",
+      "score": 0.5063,
+      "status": "verified",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "The Caloss Loader leverages the `nn.functional.cross entropy` function, a standard component of PyTorch, to calculate th\u2026",
+      "score": 0.6476,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    },
+    {
+      "text": "Tasks (make minimal edits \u2014 preserve all technical content):\n1. Fix grammatical errors and awkward phrasing.\n2. Ensure c\u2026",
+      "score": 0.2383,
+      "status": "FLAGGED",
+      "best_chunk_id": "c01"
+    },
+    {
+      "text": "*   The Caloss Loader streamlines the data processing stage, enabling efficient batch-wise loss calculation.\n*   The use\u2026",
+      "score": 0.4882,
+      "status": "verified",
+      "best_chunk_id": "c02"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "verified": 3,
+    "flagged": 1,
+    "avg_score": 0.4701,
+    "threshold": 0.35
+  }
+}
