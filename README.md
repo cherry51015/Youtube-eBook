@@ -158,25 +158,26 @@ cd llm-book-pipeline
 pip install -r requirements.txt
 
 # Pull the local LLM (free, ~4GB download, one-time)
-ollama pull mistral
+ollama gemma3:1b
 ```
 
 ### Run
 
 ```bash
-# Full pipeline — one command
+
+Run the full pipeline
+bash# Linux/Mac
 make all
 
-# Or stage by stage (useful for debugging or resuming)
-make ingest      # fetch transcripts (auto-falls back to seeds if YouTube blocked)
-make chunk       # semantic chunking
-make structure   # LLM outlines each chapter
-make generate    # LLM writes, assembles, refines chapters
-make verify      # cosine similarity grounding check
-make enhance     # glossary + index + cross-links
-make render      # PDF output
-make eval        # print evaluation metrics
-```
+# Windows (PowerShell)
+python scripts/01_ingest.py
+python scripts/02_chunk.py
+python scripts/03_structure.py
+python scripts/04_generate.py
+python scripts/05_verify.py
+python scripts/06_enhance.py
+python scripts/07_render.py
+python scripts/eval.py
 
 ### Using a different LLM backend
 
@@ -206,18 +207,6 @@ export OPENAI_API_KEY="sk-..."          # for OpenAI
 | Semantic coverage | cosine sim of chapter vs. all source chunks | > 0.40 |
 | Grounding score | fraction of paragraphs above similarity threshold | > 0.80 |
 
----
-
-## Model Comparison
-
-| Backend | Cost | Quality | Speed | Best for |
-|---|---|---|---|---|
-| Ollama + Mistral 7B | Free | Good | ~2 min/chapter (GPU) | Default — reproducible, no API key |
-| Ollama + LLaMA 3.1 8B | Free | Better | ~3 min/chapter (GPU) | Better coherence, same cost |
-| Anthropic claude-sonnet | ~$0.10/chapter | Best | ~20 sec/chapter | Highest quality output |
-| OpenAI gpt-4o-mini | ~$0.05/chapter | Good | ~15 sec/chapter | Fast cloud option |
-
-The pipeline is backend-agnostic. The LLM adapter in `utils/llm.py` makes swapping a one-line config change.
 
 ---
 
