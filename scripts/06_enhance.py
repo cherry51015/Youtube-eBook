@@ -187,17 +187,15 @@ def main() -> None:
         json.dump(concept_index, f, indent=2, ensure_ascii=False)
 
     #  Step 3: Cross-link and write final chapters
-    log.info("\n[3/3] Inserting cross-references …")
-    for cf in chapter_files:
+   log.info("\n[3/3] Copying chapters (cross-linking skipped) …")
+   for cf in chapter_files:
         with open(cf, encoding="utf-8") as f:
             text = f.read()
-        num_match = re.match(r"(\d+)_", cf.stem)
-        chap_num = int(num_match.group(1)) if num_match else 0
-        enhanced = insert_crosslinks(text, chap_num, chapter_map, concept_index)
         out_file = out_chapters_dir / cf.name
         with open(out_file, "w", encoding="utf-8") as f:
-            f.write(enhanced)
+            f.write(text)
         log.info("  ✓ %s", cf.name)
+
     log.info("\n✓ Enhancement complete → %s", p["outputs"])
 
 
